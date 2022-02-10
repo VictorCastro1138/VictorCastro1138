@@ -1,5 +1,5 @@
-## Hello, my name is Victor Castro
-### Olá, meu nome é Victor Castro
+## Hello, my name is Victor Castro de Faria
+### Olá, meu nome é Victor Castro de Faria
 
 How you can reach me:  
 [LinkedIn](https://www.linkedin.com/in/victor-castro-651762156/)  
